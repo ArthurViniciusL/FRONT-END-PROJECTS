@@ -1,0 +1,29 @@
+.calculator {
+    background-color: #E4E8ED;
+}
+
+.calculator #display {
+    color: #000000;
+    background-color: #ff0000;
+    
+}
+
+.calculator button#clear {
+    color: #fc4552;
+    background-color: #ffd5d8;
+}
+
+.calculator button.btn-number {
+    color: #000000;
+    background-color: #c3eaff;
+}
+
+.calculator button.btn-operator {
+    color: #f967f3;
+    background-color: #ffd0fb;
+}
+
+.calculator button.btn-equal {
+    color: #000;
+    background-color: #adf9e7;
+}
